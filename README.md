@@ -1,7 +1,7 @@
 Hello,
 
 My name is Xenidis Pavlos and I was born and live in Greece.
-English is not my first language so please excuse any errors in my speech.
+English is not my first language so please excuse any errors in my writting.
 
 This is a summary of various code of finished small projects, used as learning exercises in my journey to learning Python.
 None of this is intended for use and should have many flaws, as their purpose is my introduction to Python and it's use.
